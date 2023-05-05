@@ -1,8 +1,7 @@
 [![An image of @aborgas90's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aborgas90)](https://holopin.io/@aborgas90)
 <h1 align="center">Hi 👋, I'm aborgas 90 as 0x01</h1>
 <h3 align="center">I am interested in cybersecurity and full stack web developer from Indonesia.</h3>
-<img align = "right" alt "Coding" width "400" src  "https://tenor.com/view/programmer-gif-19019116">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aborgas90&label=Profile%20views&color=0e75b6&style=flat" alt="aborgas90" /> </p>
+<p align="left"> <img src="https://tenor.com/view/programmer-gif-19019116" alt="aborgas90" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
