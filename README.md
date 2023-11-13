@@ -1,6 +1,6 @@
 [![An image of @aborgas90's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aborgas90)](https://holopin.io/@aborgas90)
 # 💫 About Me:
-Hi 👋, I'm Muhammad Wildan Nugroho.<br>I am interested in cybersecurity and full stack web developer from Indonesia.
+Hi 👋, I'm Muhammad Wildan Nugroho.<br>I am interested in full stack web developer from Indonesia.
 
 
 ## 🌐 Socials:
